@@ -1,4 +1,6 @@
 {
+  "homepage":"https://github.qucu.ru",
+
   "name": "excellent",
   "version": "1.0.0",
   "main": "server.js",
